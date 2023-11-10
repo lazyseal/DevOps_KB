@@ -2,6 +2,7 @@
 This is a knowledge base for the Yandex Practicum students
 
 Languages: Russian (preferable), English 
+
 Format: Markdown 
 
 В этом репозитории я хочу попытаться собрать полезные для прохождения курса ДевОпс (расширенная версия) на Яндекс Практикуме материалы для студентов - документацию, классные статьи, может быть - какие-то советы. 
