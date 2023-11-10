@@ -16,3 +16,10 @@ https://habr.com/ru/articles/447080/
 
 https://rotoro.cloud/landing.html
 
+Потрясающий курс CS50 (Основы Computer Science), бесплатно
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+Есть перевод на Русский, хоть и немного староват: 
+
+https://habr.com/ru/companies/vertdider/articles/403823/
